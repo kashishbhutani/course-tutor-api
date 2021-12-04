@@ -11,6 +11,8 @@ Things you may want to cover:
 
 * Database creation - rake db:create
 
+* Database migration - rake db:migrate
+
 * How to run the test suite - rspec
 
-* ...
+* How to run the rails server - rails server
